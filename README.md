@@ -2,7 +2,7 @@
 ## *Portfolio Website*
 
 ##### *Project Description*
-<p> Website to Showcase my skills and work experience<p>
+<p> Website to showcase my skills and work experience<p>
 
 ###### *Author*
 <p> Eunice Mungai<p>
