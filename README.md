@@ -13,7 +13,7 @@
    *Bootstrap
    *Javascript
 
-###### *setup and Installation*
+###### *Setup and Installation*
 To install the above project in your computer install VSC and run the code, modifying it to your needs. 
 
 ###### *Authors Information*
