@@ -11,6 +11,7 @@
    *Html
    *Css
    *Bootstrap
+   *Javascript
 
 ###### *setup and Installation*
 To install the above project in your computer install VSC and run the code, modifying it to your needs.
